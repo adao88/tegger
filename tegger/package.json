@@ -5,7 +5,10 @@
   "scripts": {
     "start": "node ./bin/www",
     "test": "mocha"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20b489738af0af079f415d73e6a829e3914217bf
   },
   "dependencies": {
     "axios": "^0.21.1",
